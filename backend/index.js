@@ -1,5 +1,6 @@
 const express =require("express");
+const mainRouter = require("./routes/index.js");
 
-const router = express.Route();
+const app = express();
 
-module.exports = router;
+app.use("api/v1", mainRouter);
