@@ -1,4 +1,4 @@
-#NeoWallet
+## NeoWallet
 
 This is the backend server for the NeoWallet. It provides various API endpoints for account management, user authentication, and user interactions. The server is built with Node.js and Express.
 
