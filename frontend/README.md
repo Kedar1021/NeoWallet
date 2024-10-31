@@ -1,6 +1,6 @@
-# Paytm-Clone App Frontend
+# NeoWallet - Digital Wallet Application
 
-This is the frontend application for the Paytm-Clone App. It provides a user interface for managing accounts, performing transactions, and viewing user information. The frontend is built using React(vite) and Tailwind CSS.
+This is the frontend application for the NeoWallet. It provides a user interface for managing accounts, performing transactions, and viewing user information. The frontend is built using React(vite) and Tailwind CSS.
 
 ## Getting Started
 
@@ -16,7 +16,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Yash4152/Paytm-Clone.git
+   git clone https://github.com/Kedar1021/NeoWallet/
    cd frontend
    ```
 
