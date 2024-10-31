@@ -37,8 +37,8 @@ The frontend includes several pages like Dashboard, Home, Signin, Signup, Send M
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/Yash4152/Paytm-Clone.git
-   cd Paytm-Clone-app
+   git clone https://github.com/Kedar1021/NeoWallet/
+   cd NeoWallet
    ```
 
 2. **Install backend dependencies**:
