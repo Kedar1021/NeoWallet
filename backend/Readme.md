@@ -1,6 +1,6 @@
-# Paytm-Clone App Backend
+#NeoWallet
 
-This is the backend server for the Paytm-clone App. It provides various API endpoints for account management, user authentication, and user interactions. The server is built with Node.js and Express.
+This is the backend server for the NeoWallet. It provides various API endpoints for account management, user authentication, and user interactions. The server is built with Node.js and Express.
 
 ## Getting Started
 
@@ -16,7 +16,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Yash4152/Paytm-Clone.git
+   git clone https://github.com/Kedar1021/NeoWallet
    cd backend
    ```
 
